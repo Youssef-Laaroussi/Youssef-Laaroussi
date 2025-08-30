@@ -1,4 +1,10 @@
-Hello there! I’m Youssef Laaroussi
+<div align="center">
+
+# 🔥 Hello there! I'm Youssef Laaroussi
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=45&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&height=80&lines=Hello+there!+I'm+Youssef+Laaroussi;🔥+Hello+there!+I'm+Youssef+Laaroussi;👋+Hello+there!+I'm+Youssef+Laaroussi" alt="Dynamic Hello" />
+
+</div>
 
 
 ## 🌐 Socials:
