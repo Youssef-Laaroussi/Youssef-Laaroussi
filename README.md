@@ -1,11 +1,18 @@
 <div align="center">
 
+
+<div align="center">
+
 # 🔥 Hello there! I'm Youssef Laaroussi
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=45&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&height=80&lines=Hello+there!+I'm+Youssef+Laaroussi;🔥+Hello+there!+I'm+Youssef+Laaroussi;👋+Hello+there!+I'm+Youssef+Laaroussi" alt="Dynamic Hello" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&height=60&lines=Hello+there!+I'm+Youssef+Laaroussi;🔥+Hello+there!+I'm+Youssef+Laaroussi;👋+Hello+there!+I'm+Youssef+Laaroussi" alt="Dynamic Hello" />
+
+---
+
+### 💭 **My Signature Quote**
+<img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=32&duration=5000&pause=3000&color=FF6B35&center=true&vCenter=true&width=400&height=70&lines=Never+mind...;✨+Never+mind+✨" alt="Signature Quote" />
 
 </div>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Youssef-Laaroussi) 
